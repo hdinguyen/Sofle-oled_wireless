@@ -73,9 +73,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '-'
+  - '='
+  - \
   - {t: ▽, type: trans}
   - INS
   - PSCRN
@@ -99,7 +99,7 @@ layers:
   - UP ARROW
   - RIGHT
   - DEL
-  - BSPC
+  - ENTER
   - {t: ▽, type: trans}
   - UNDO
   - CUT
@@ -112,8 +112,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '-'
+  - '='
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
